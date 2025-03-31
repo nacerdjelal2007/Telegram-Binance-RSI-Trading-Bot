@@ -16,8 +16,8 @@ Telegram bot token and chat ID
 TA-Lib library
 Installation
 Clone the repository:
-git clone https://github.com/yourusername/binance-rsi-bot.git
-cd binance-rsi-bot
+git clone https://github.com/nacerdjelal2007/Telegram-Binance-RSI-Trading-Bot.git
+cd Telegram-Binance-RSI-Trading-Bot
 Install dependencies:
 pip install python-binance pandas TA-Lib python-dotenv
 Create a
